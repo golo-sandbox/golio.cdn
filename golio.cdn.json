@@ -1,0 +1,19 @@
+[
+	{
+		"name":"Champollion", "repository":"/k33g/champollion",
+		"description" : "A generic lexer (tokenizer), with a little parser.",
+		"files" : [
+			{"source":"/k33g/champollion/master/champollion.golo", "target":"/"},
+			{"source":"/k33g/champollion/master/simple.golo", "target":"/"}
+		]
+	},
+	{
+		"name":"Bozzo", "repository":"/k33g/bozzo",
+		"description" : "Bozzo is a json parser.",
+		"files" : [
+			{"source":"/k33g/bozzo/master/bozzo.golo", "target":"/"},
+			{"source":"/k33g/bozzo/master/sample.golo", "target":"/"},
+			{"source":"/k33g/bozzo/master/champollion/champollion.golo", "target":"/champollion"}
+		]
+	}	
+]
