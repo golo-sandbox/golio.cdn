@@ -1,5 +1,15 @@
 [
 	{
+		"name":"GoloHttpServer", "repository":"/titimoby/GoloHttpServer",
+		"description" : "Learn Golo and write a Http Server.",
+		"files" : [
+			{"source":"/titimoby/GoloHttpServer/master/GoloHttpServer.golo", "target":"GoloHttpServer.golo"},
+			{"source":"/titimoby/GoloHttpServer/master/README.md", "target":"README.md"},
+			{"source":"/titimoby/GoloHttpServer/master/index.html", "target":"index.html"},
+			{"source":"/titimoby/GoloHttpServer/master/parameters.golo", "target":"parameters.golo"}
+		]
+	},
+	{
 		"name":"Champollion", "repository":"/k33g/champollion",
 		"description" : "A generic lexer (tokenizer), with a little parser.",
 		"files" : [
