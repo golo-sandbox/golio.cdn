@@ -39,10 +39,8 @@
 		"name":"golo.augmentations", "repository":"/k33g/golo.augmentations",
 		"description" : "Some 'bad' golo.augmentations",
 		"files" : [
-			{"source":"/k33g/golo.augmentations/master/Object/object.ternary.golo", "target":"libs/augmentations/Object/object.ternary.golo"},
-			{"source":"/k33g/golo.augmentations/master/Object/README.md", "target":"libs/augmentations/Object/README.md"},
-			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/augmentations/String/string.interpolation.golo"},
-			{"source":"/k33g/golo.augmentations/master/String/README.md", "target":"libs/augmentations/String/README.md"}
+			{"source":"/k33g/golo.augmentations/master/Object/object.ternary.golo", "target":"libs/object.ternary.golo"},
+			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/string.interpolation.golo"}
 		]
 	}		
 ]
