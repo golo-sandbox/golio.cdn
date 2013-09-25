@@ -40,7 +40,8 @@
 		"description" : "Some 'bad' golo.augmentations",
 		"files" : [
 			{"source":"/k33g/golo.augmentations/master/Object/object.ternary.golo", "target":"libs/object.ternary.golo"},
-			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/string.interpolation.golo"}
+			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/string.interpolation.golo"},
+			{"source":"/k33g/golo.augmentations/master/Collections/collections.golo", "target":"libs/collections.golo"}
 		]
 	},
 	{
