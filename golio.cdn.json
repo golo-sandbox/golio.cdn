@@ -42,5 +42,12 @@
 			{"source":"/k33g/golo.augmentations/master/Object/object.ternary.golo", "target":"libs/object.ternary.golo"},
 			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/string.interpolation.golo"}
 		]
-	}		
+	},
+	{
+		"name":"the.transporter", "repository":"/k33g/the.transporter",
+		"description" : "the transporter type because of constant references",
+		"files" : [
+			{"source":"/k33g/the.transporter/master/the.transporter.golo", "target":"libs/the.transporter.golo"}
+		]
+	}	
 ]
