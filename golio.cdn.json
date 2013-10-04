@@ -50,5 +50,19 @@
 		"files" : [
 			{"source":"/k33g/the.transporter/master/the.transporter.golo", "target":"libs/the.transporter.golo"}
 		]
+	},
+	{
+		"name":"golo.proj", "repository":"/k33g/golo.proj",
+		"description" : "Golo Template Project",
+		"files" : [
+			{"source":"/k33g/golo.proj/master/jars/README.md", "target":"jars/README.md"},
+			{"source":"/k33g/golo.proj/master/java.src/README.md", "target":"java.src/README.md"},
+			{"source":"/k33g/golo.proj/master/libs/README.md", "target":"libs/README.md"},
+			{"source":"/k33g/golo.proj/master/README.md", "target":"README.md"},
+			{"source":"/k33g/golo.proj/master/pom.xml", "target":"pom.xml"},
+			{"source":"/k33g/golo.proj/master/main.golo", "target":"main.golo"},
+			{"source":"/k33g/golo.proj/master/gol", "target":"gol"},
+			{"source":"/k33g/golo.proj/master/gol", "target":"golj"}
+		]
 	}	
 ]
