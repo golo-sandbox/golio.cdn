@@ -62,7 +62,7 @@
 			{"source":"/k33g/golo.proj/master/pom.xml", "target":"pom.xml"},
 			{"source":"/k33g/golo.proj/master/main.golo", "target":"main.golo"},
 			{"source":"/k33g/golo.proj/master/gol", "target":"gol"},
-			{"source":"/k33g/golo.proj/master/gol", "target":"golj"}
+			{"source":"/k33g/golo.proj/master/golj", "target":"golj"}
 		]
 	}	
 ]
