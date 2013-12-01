@@ -41,7 +41,8 @@
 		"files" : [
 			{"source":"/k33g/golo.augmentations/master/Object/object.ternary.golo", "target":"libs/object.ternary.golo"},
 			{"source":"/k33g/golo.augmentations/master/String/string.interpolation.golo", "target":"libs/string.interpolation.golo"},
-			{"source":"/k33g/golo.augmentations/master/Collections/collections.golo", "target":"libs/collections.golo"}
+			{"source":"/k33g/golo.augmentations/master/Iterables/iterable.augmentations.golo", "target":"libs/iterable.augmentations.golo"},
+			{"source":"/k33g/golo.augmentations/master/Maps/map.augmentations.golo", "target":"libs/map.augmentations.golo"}
 		]
 	},
 	{
